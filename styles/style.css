@@ -95,6 +95,7 @@ margin-top: 5px;
     border-radius: 10px;
     background-color: #fff8f3;
     margin: 130px 0;
+    
 }
 .section-title{
     color: #181818;
@@ -108,4 +109,16 @@ font-weight: 700;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.about-info{
+    text-align: center;
 }
